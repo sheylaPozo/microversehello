@@ -1,6 +1,10 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 ![](https://img.shields.io/github/followers/sheylaPozo?style=social)
 
-# Module 1: "Hello Microverse" project
+---
+## Module 1: "Hello Microverse" project
+---
 
 > This project is part of Microverse's The Portal part of the curriculum. and it's been built with Html 5 and CSS, for practice purposes to create a repository.
 
@@ -35,15 +39,13 @@ To get a local copy up and running follow these simple example steps.
 
 $ cd <folder>
 
-$ git clone git@github.com:sheylaPozo/Hello-Microverse.git  or  
+>you can write or copy the next line command
 
->you can write the next line command
-
-git clone https://github.com/sheylaPozo/Hello-Microverse
+$ git clone git@github.com:sheylaPozo/microversehello.git  
 
 > and then change into the working directory.
 
-cd Hello-Microverse
+cd ~/Documents/shey/Module1/microversehello
 
 ### Install
 
@@ -62,7 +64,7 @@ cd Hello-Microverse
 Contributions, issues, and feature requests are welcome!
 
 
-Feel free to check the [issues page](https://github.com/sheylaPozo/Hello-Microverse/issues).
+Feel free to check the [issues page](https://github.com/sheylaPozo/microversehello/issues).
 
 
 ## Show your support
