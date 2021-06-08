@@ -16,13 +16,13 @@
 ![DEMO](https://user-images.githubusercontent.com/54015740/120403210-5c901300-c309-11eb-8666-5db70813e6c7.jpg)
 
 ---
-The main purpose of the project [Hello-Microverse](https://sheylapozo.github.io/Hello-Microverse/) was for me to develop some hands on working with Html, CSS, adding some linters and basic things needed to get started in any kind of future projects for programmers of entry level to advanced. I've really enjoyed this exercise, and it has definitely given me a good refreshing kick-in to start building more projects and get started with enthusiasm.
+The main purpose of the project [Hello-Microverse](https://sheylapozo.github.io/microversehello/) was for me to develop some hands on working with Html, CSS, adding some linters and basic things needed to get started in any kind of future projects for programmers of entry level to advanced. I've really enjoyed this exercise, and it has definitely given me a good refreshing kick-in to start building more projects and get started with enthusiasm.
 -------
 ---
 
 ## Live Demo
 
-[Hello-Microverse](https://sheylapozo.github.io/Hello-Microverse/)
+[Hello-Microverse](https://sheylapozo.github.io/microversehello/)
 
 ---
 
@@ -77,4 +77,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](./MIT.md) licensed.
