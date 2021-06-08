@@ -10,6 +10,9 @@ node_modules
 # Ignore files related to API keys
 .env
 
+# Ignore Windows system files
+.DS_store
+
 # Ignore SASS config files
 .sass-cache
 
