@@ -1,0 +1,18 @@
+test.md
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore all text files
+*.txt
+
+# Ignore files related to API keys
+.env
+
+# Ignore Windows system files
+.DS_store
+
+# Ignore SASS config files
+.sass-cache
+
+"This file should be ignored by git"
